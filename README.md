@@ -33,13 +33,18 @@ React-Router(npm install react-router-dom)
 
 
 Εγκαθιστώ στο index￼ το παρακάτω:
-Styled Components ( πληκτρολογώντας στο ./public/index.html
+
+
+Styled Components
+
+( πληκτρολογώντας στο ./public/index.html
 <link
       rel="stylesheet"
       href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
       integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
       crossorigin="anonymous"
     />
+
 
 Τέλος πληκτρολογώ στο cmd την εντολή npm start ώστε να αρχίσει να τρέχει η εφαρμογή.
 
