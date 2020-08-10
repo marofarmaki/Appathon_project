@@ -39,7 +39,10 @@ Styled Components
 
 ( πληκτρολογώντας στο ./public/index.html
 
+
 <link
+
+
       rel="stylesheet"
       
       href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
@@ -49,6 +52,7 @@ Styled Components
       crossorigin="anonymous"
       
     />
+
 
 
 
