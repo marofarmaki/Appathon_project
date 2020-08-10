@@ -24,9 +24,13 @@ cd appathon
 τα κάτωθι πακέτα:
 
 Yarn (curl -o- -L https://yarnpkg.com/install.sh | bash)
+
 React-Bootstrap  (arn add react-bootstrap)
+
 Bootstrap(yarn add bootstrap)
+
 React-Router(npm install react-router-dom)
+
 
 Εγκαθιστώ στο index￼ το παρακάτω:
 Styled Components ( πληκτρολογώντας στο ./public/index.html
