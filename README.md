@@ -40,7 +40,7 @@ Styled Components
 ( πληκτρολογώντας στο ./public/index.html
 
 
-<link
+           <link
 
            rel="stylesheet"
            
