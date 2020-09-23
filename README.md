@@ -64,7 +64,7 @@ Styled Components
            />"
    
 
-Αρχίζω να τρέχω το αρχείο μου MedServlet στο eclipse    
+Αρχίζω να τρέχω το αρχείο μου MedServlet στο eclipse.    
 
 
 Τέλος πληκτρολογώ στο cmd την εντολή npm start ώστε να αρχίσει να τρέχει η εφαρμογή.
