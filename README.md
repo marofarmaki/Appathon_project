@@ -42,7 +42,13 @@ Bootstrap(yarn add bootstrap)
 React-Router(npm install react-router-dom)
 
 
-Εγκαθιστώ στο index￼ το παρακάτω:
+jquery(npm install jquery)
+   
+   
+ajax(npm install ajax)
+ 
+
+Εγκαθιστώ στο index.js το παρακάτω:
 
 
 Styled Components
@@ -57,16 +63,12 @@ Styled Components
            crossorigin="anonymous"
            />"
    
-jquery(npm install jquery)
-   
-  
- ajax(npm install ajax)
- 
- 
+
 Αρχίζω να τρέχω το αρχείο μου MedServlet στο eclipse    
 
 
 Τέλος πληκτρολογώ στο cmd την εντολή npm start ώστε να αρχίσει να τρέχει η εφαρμογή.
+
 
 Σημείωση:
 
